@@ -50,7 +50,7 @@ A modern, responsive personal portfolio showcasing my skills, projects, and expe
 
 ## 🌐 Live Preview
 
-👉 [https://Dattu-Deshmukh.github.io/Dattu-portfolio/](https://Dattu-Deshmukh.github.io/Portfolio/)
+👉 [https://Dattu-Deshmukh.github.io/Portfolio/](https://Dattu-Deshmukh.github.io/Portfolio/)
 
 ---
 
