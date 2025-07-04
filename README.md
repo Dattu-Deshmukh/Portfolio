@@ -69,15 +69,6 @@ Portfolio/
 
 ---
 
-## 🔧 Configuration
-
-### Contact Form
-Update the Formspree endpoint in `script.js`:
-```javascript
-const response = await fetch('https://formspree.io/f/xanjzwwn', {
-```
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
