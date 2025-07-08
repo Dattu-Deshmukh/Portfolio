@@ -337,7 +337,7 @@ document.addEventListener('DOMContentLoaded', function() {
       try {
         // Option 1: Using Formspree (you need to create your own endpoint)
         // Replace 'YOUR_FORMSPREE_ENDPOINT' with your actual Formspree endpoint
-        const response = await fetch('https://formspree.io/f/mjkrlgar', {
+        const response = await fetch('https://formspree.io/f/xanjzwwn', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
